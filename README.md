@@ -148,4 +148,7 @@ Update an email's `read` or `archived` status.
 3. Make your changes.
 4. Submit a pull request.
 
+[Demo Video](https://youtu.be/sbO6f1nRymQ?si=rabUn1mMfboZnrAx)
+
+
 For more details on the project specifications, visit the [CS50 Mail Project](https://cs50.harvard.edu/web/2020/projects/3/mail/).
